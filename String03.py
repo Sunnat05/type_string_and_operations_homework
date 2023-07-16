@@ -1,5 +1,5 @@
 def main():
-    s=".,';+"
+    s="*****"
     """
     "*" Return a string that consists of only this character and is five in length.
     Args:
