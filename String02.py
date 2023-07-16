@@ -1,4 +1,5 @@
 def main():
+    s="DSFFHD"
     """
     Return a string consisting only of uppercase.
     Args:
@@ -6,4 +7,5 @@ def main():
     Returns:
         str: return answer.
     """
-    return 
+    return s
+print(main())
