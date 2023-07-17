@@ -1,4 +1,5 @@
 def main(first,last):
+    a=last+", "+first
     """
     Given two strings, first_name and last_name, return a single string in the format "last, first".
     Args:
@@ -7,4 +8,5 @@ def main(first,last):
     Returns:
         str: return answer.
     """
-    return 
+    return a
+print(main("first","last"))
