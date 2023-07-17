@@ -1,5 +1,5 @@
 def main(s1,s2):
-    a="s1 s2"
+    a=s1+" "+s2
     """
     s1 and s2 strings are given. return the result by adding a space (" ") between them.
     Args:
@@ -9,4 +9,4 @@ def main(s1,s2):
         str: return answer.
     """
     return a
-print(main("fo","fg"))
+print(main())
