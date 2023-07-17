@@ -1,4 +1,5 @@
 def main(x,y):
+    answer=(x+y)*2
     """
     Given three integers, x, y, return the "(x+y)*2={answer}" string.
     Args:
@@ -7,4 +8,5 @@ def main(x,y):
     Returns:
         str: return answer.
     """
-    return 
+    return str(answer)
+print(main(3,7))
