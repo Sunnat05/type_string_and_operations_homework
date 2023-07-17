@@ -9,4 +9,4 @@ def main(s1,s2):
         str: return answer.
     """
     return a
-print(main(s1,s2))
+print(main("fo","fg"))
