@@ -9,4 +9,4 @@ def main(s,n):
         str: return answer.
     """
     return a
-print(main("ddu",5))
+print(main("s",5))
